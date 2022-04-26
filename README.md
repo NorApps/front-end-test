@@ -29,7 +29,7 @@ The code will be evaluated according to the following criteria
 * That the implementation is efficient and scales well when given large amounts of input data.
 
 ## Hint
-* Refer to https://open-meteo.com/en/docs#api-documentation for how to interpret the `weather code` field.
+* Refer to https://open-meteo.com/en/docs#api-documentation for how to interpret the `weathercode` field.
 * You can use `npx create-react-app` to get started.
 * How do you test the code/app?
 
